@@ -19,7 +19,6 @@ namespace ClassesDemonstration
 
         public void MovePlayer(int moveX, int moveY)
         {
-            
             x = x + moveX;
             y = y + moveY;
         }
